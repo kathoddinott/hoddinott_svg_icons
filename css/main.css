@@ -1,0 +1,17 @@
+
+.imageWrapper {
+	display: inline-block;
+	width: 100%;
+}
+
+
+img {
+	width: 0%;
+	display: block;
+}
+
+#head
+{
+	width: 20%;
+	display: block;
+}
