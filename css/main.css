@@ -1,17 +1,72 @@
 
+#mainS
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center
+}
+
 .imageWrapper {
-	display: inline-block;
+	display: flex;
 	width: 100%;
 }
 
 
 img {
 	width: 0%;
-	display: block;
+	display: flex;
 }
 
 #head
 {
-	width: 20%;
-	display: block;
+	width: 15%;
+	display: flex;
+	flex-direction: row;
+}
+
+#icon2
+{
+	width: 15%;
+	display: flex;
+	flex-direction: row;
+}
+
+#icon3
+{
+	width: 15%;
+}
+
+#icon4
+{
+	width: 15%;
+}
+
+#icon5
+{
+	width: 15%;
+}
+
+#icon6
+{
+	width:15%;
+}
+
+#icon8
+{
+	width:15%;
+}
+
+#icon9
+{
+	width:15%;
+}
+
+#icon10
+{
+	width:15%;
+}
+
+#icon7
+{
+	width:15%;
 }
